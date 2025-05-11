@@ -1,0 +1,15 @@
+{
+  "students": [
+    {
+      "average": 100.0,
+      "total": 400,
+      "sno": "20180",
+      "science": 100,
+      "grade": "A",
+      "name": "방민영",
+      "english": 100,
+      "math": 100,
+      "korean": 100
+    }
+  ]
+}
